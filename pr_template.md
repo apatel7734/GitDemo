@@ -1,7 +1,0 @@
-JiraTicket : [Title](URL)
-
-Description:
-
-* 
-*
-*
