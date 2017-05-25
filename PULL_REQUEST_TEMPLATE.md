@@ -1,5 +1,5 @@
 
-Jira Ticket: (TITLE)(TICKET URL)
+Jira Ticket: [TITLE](TICKET URL)
 
 Description
-***
+**
